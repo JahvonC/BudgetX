@@ -1,0 +1,26 @@
+
+* {
+    font-family: monospace;
+    background-color:whitesmoke;
+}
+
+button {
+    border-radius: 10%;
+    margin-top: 10px;
+    width: 125px;
+}
+
+input {
+    border-radius: 10%;
+    margin-bottom: 85px;
+    font-size: 20px;
+}
+
+#splits {
+    border: 10px solid black;
+    border-radius: 10px;
+} 
+
+#top {
+    margin-top: 70px;
+}
